@@ -1,4 +1,4 @@
-package com.example.dgsdemo;
+package com.huzuzhi.dgsdemo;
 
 public class Show {
 

@@ -1,4 +1,4 @@
-package com.example.dgsdemo;
+package com.huzuzhi.dgsdemo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
